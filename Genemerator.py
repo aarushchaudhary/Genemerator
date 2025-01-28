@@ -33,5 +33,3 @@ for pwd in range(number):
 
 # About the author
 print("Made by Aarush Chaudhary")
-print("GitHub- LASTSECRET987")
-print("https://github.com/LASTSECRET987/")
